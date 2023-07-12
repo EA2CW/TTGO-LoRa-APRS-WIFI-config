@@ -29,6 +29,7 @@ If you have the firmware installed jump the following step
 20. Choose now "Build Filesystem Image" and wait until step is completed
 21. Next, choose "Upload Filesystem Image", wait and check that your igate circuit is reset and rebooted
 22. Last, use the options "Build" and "Upload" in the General folder.
+    
 That's all. Next time you boot the igate, it will try to find the several wifi networks defined. If no one is found, it will turn to AP mode
 
     
