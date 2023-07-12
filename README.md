@@ -13,7 +13,9 @@ Here I will try to explain how to setup several wifi access points on the DL9SAU
 7. Check that you have selected the right circuit and version environment
 8. With the circuit connected to the computer, select the proper serial port (in my case, COM8
 9. open the file "platformio.ini" and add the following line on the [env] section:
-    upload_port = COMn (where n is the number of the port assigned to the circuit plate )
+
+       upload_port = COMn (where n is the number of the port assigned to the circuit plate )
+   
 11. save this file
 12. Now, on the left menu, open the folder "data". There you should find 2 files: "preferences.cfg" and "wifi.cfg". If you have already configured and installed this firmware, you know where they are.
 13. In this case, we want only to modify the "wifi.cfg" file, to add / set our preferred wifi access points.
