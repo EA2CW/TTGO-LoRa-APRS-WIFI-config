@@ -1,5 +1,5 @@
 # TTGO-LoRa-APRS-WIFI-config
-How to setup several Wifi access on DL9SAU LoRa APRS firmware
+How to setup several wifi access points on DL9SAU LoRa APRS firmware (TTGO-Lora32 hard)
 
 Here I will try to explain how to setup several wifi access points on the DL9SAU firmware for LoRa APRS with TTGO Lora 32 circuits
 
